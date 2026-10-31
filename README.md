@@ -156,16 +156,12 @@
 
 <div align="center">
 
-#### 🏆 Trophies
-
-<img src="https://github-profile-trophy.vercel.app/?username=jagan786786&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub trophies" />
-
 #### 📌 At a glance
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jagan786786&theme=tokyonight" width="100%" alt="Profile details and contribution history" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=jagan786786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagan786786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Inventory,webframework,web" alt="Top languages" />
+<img height="170" src="https://github-stats-extended.vercel.app/api?username=jagan786786&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub stats" />
+<img height="170" src="https://github-stats-extended.vercel.app/api/top-langs?username=jagan786786&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&exclude_repo=Inventory,webframework,web" alt="Top languages" />
 
 #### 🧮 Languages & productivity
 
@@ -177,9 +173,9 @@
 
 <img src="https://streak-stats.demolab.com?user=jagan786786&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak" />
 
-#### 📉 Contribution activity
+#### 🟦 Contribution heatmap
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagan786786&theme=tokyonight&hide_border=true&area=true&custom_title=Contribution%20activity%20(last%2031%20days)" alt="Contribution activity graph" />
+<img width="100%" src="https://ghchart.rshah.org/70a5fd/jagan786786" alt="Contribution heatmap" />
 
 #### 🐍 Contribution snake
 
