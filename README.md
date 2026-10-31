@@ -18,10 +18,10 @@
 
 [![Followers](https://img.shields.io/github/followers/jagan786786?style=flat&logo=github&label=Followers)](https://github.com/jagan786786?tab=followers)
 [![Stars](https://img.shields.io/github/stars/jagan786786?style=flat&logo=github&label=Stars)](https://github.com/jagan786786?tab=repositories)
-[![Company](https://img.shields.io/badge/Bilvantis-Programmer%20Analyst-orange?style=flat)](#-work-experience)
+[![Company](https://img.shields.io/badge/Bilvantis-Programmer%20Analyst-orange?style=flat)](#-journey)
 [![Location](https://img.shields.io/badge/Hyderabad-India-informational?style=flat&logo=googlemaps&logoColor=white)](#)
-[![CGPA](https://img.shields.io/badge/CGPA-8.4%2F10-success?style=flat)](#-education)
-[![Anthropic](https://img.shields.io/badge/Anthropic-Certified-D97757?style=flat&logo=anthropic&logoColor=white)](#-certifications)
+[![CGPA](https://img.shields.io/badge/CGPA-8.4%2F10-success?style=flat)](#-credentials)
+[![Anthropic](https://img.shields.io/badge/Anthropic-Certified-D97757?style=flat&logo=anthropic&logoColor=white)](#-credentials)
 
 <img alt="Jagannath Patro terminal intro" src="assets/terminal.svg" width="760" />
 
@@ -29,128 +29,69 @@
 
 </div>
 
-## Contents
+<p align="center">
+  <a href="#-about"><img src="https://img.shields.io/badge/About-1a1b27?style=for-the-badge&labelColor=1a1b27&color=7aa2f7" alt="About"/></a>
+  <a href="#-impact"><img src="https://img.shields.io/badge/Impact-1a1b27?style=for-the-badge&labelColor=1a1b27&color=9ece6a" alt="Impact"/></a>
+  <a href="#-journey"><img src="https://img.shields.io/badge/Journey-1a1b27?style=for-the-badge&labelColor=1a1b27&color=bb9af7" alt="Journey"/></a>
+  <a href="#-projects"><img src="https://img.shields.io/badge/Projects-1a1b27?style=for-the-badge&labelColor=1a1b27&color=7dcfff" alt="Projects"/></a>
+  <a href="#-skills"><img src="https://img.shields.io/badge/Skills-1a1b27?style=for-the-badge&labelColor=1a1b27&color=e0af68" alt="Skills"/></a>
+  <a href="#-credentials"><img src="https://img.shields.io/badge/Credentials-1a1b27?style=for-the-badge&labelColor=1a1b27&color=f7768e" alt="Credentials"/></a>
+  <a href="#-metrics--graphs"><img src="https://img.shields.io/badge/Metrics-1a1b27?style=for-the-badge&labelColor=1a1b27&color=ff9e64" alt="Metrics"/></a>
+</p>
 
-- [About Me](#-about-me)
-- [Impact in Numbers](#-impact-in-numbers)
-- [Work Experience](#-work-experience)
-- [Projects](#-projects)
-  - [At Bilvantis 🏢](#at-bilvantis-)
-  - [Open Source 🧪](#open-source-)
-- [Skills](#-skills)
-  - [Languages 💻](#languages-)
-  - [Backend & APIs 🔧](#backend--apis-)
-  - [AI & LLM 🤖](#ai--llm-)
-  - [Databases & Cache 💾](#databases--cache-)
-  - [Cloud & DevOps 🚢](#cloud--devops-)
-  - [Frontend 🎨](#frontend-)
-  - [Testing & QA 🧪](#testing--qa-)
-  - [AI Coding Tools 🪄](#ai-coding-tools-)
-- [Education](#-education)
-- [Certifications](#-certifications)
-- [Achievements](#-achievements)
-- [Metrics & Graphs](#-metrics--graphs)
-- [Contact](#-contact)
+## 👋 About
 
-## 👋 About Me
+<img src="assets/about.svg" width="100%" alt="role: Programmer Analyst @ Bilvantis · builds: FastAPI services, data pipelines, LLM automation · models: Anthropic, Gemini, OpenAI, Databricks · learning: AI agents, multi-agent systems, LLM eval · ask me: FastAPI, RAG, Redis, rate limiting, LLM cost · seeking: growth-focused team building reliable products" />
 
-- 🔭 I'm a **Programmer Analyst at Bilvantis Technologies**, working on Python, AI and full-stack systems.
-- ⚡ I build **production services and data pipelines**, including FastAPI REST APIs, document ingestion and LLM-powered automation.
-- 🤖 I work with **Anthropic, Gemini, OpenAI and Databricks** models every day.
-- 🌱 I'm currently going deeper into **AI agents, multi-agent systems and LLM evaluation**.
-- 💬 Ask me about **FastAPI, RAG, Redis caching, rate limiting and LLM cost optimization**.
-- 🎯 I'd like to join a growth-focused engineering team building scalable, reliable products.
+## 📈 Impact
 
-## 📈 Impact in Numbers
+<img src="assets/impact.svg" width="100%" alt="80% lower LLM API cost · 60% fewer upstream tokens · 90% less manual tracking · 4 LLM providers unified" />
 
-<div align="center">
-  <img src="assets/impact.svg" width="100%" alt="80% lower LLM API cost · 60% fewer upstream tokens · 90% less manual tracking · 4 LLM providers unified" />
-</div>
+## 🧭 Journey
 
-## 💼 Work Experience
-
-#### Bilvantis Technologies 🏢
-
-- **Programmer Analyst (Python, AI & Full Stack)** — Oct 2025 – Present · Hyderabad
-- I build AI developer tools, internal LLM platforms and automated QA systems for enterprise clients.
+<img src="assets/timeline.svg" width="100%" alt="Jul 2021 GIET University · May 2025 graduated · Oct 2025 Programmer Analyst at Bilvantis Technologies · Now shipping LLM platforms" />
 
 ## 🚀 Projects
 
-#### At Bilvantis 🏢
+<table>
+  <tr>
+    <td width="50%"><img src="assets/p-aiguard.svg" width="100%" alt="AI-Guard — LLM API gateway: 60% fewer tokens, 90% less manual tracking, 4 providers" /></td>
+    <td width="50%"><img src="assets/p-genie.svg" width="100%" alt="Genie — AI VS Code extension: 80% lower AI cost, 7 IDE features" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/p-converter.svg" width="100%" alt="Code Converter — AI repository migration platform: 5 migration modules" /></td>
+    <td width="50%"><img src="assets/p-magickvoice.svg" width="100%" alt="MagickVoice QA — LLM-as-judge voice-agent testing in CircleCI" /></td>
+  </tr>
+  <tr>
+    <td width="50%"><img src="assets/p-rag.svg" width="100%" alt="RAG File Chat — document Q&A over PostgreSQL vector search, 3 LLM providers" /></td>
+    <td width="50%"><a href="#-open-source"><img src="assets/p-oss.svg" width="100%" alt="Open Source — public microservices, CI pipelines and real-time apps" /></a></td>
+  </tr>
+</table>
 
-- **AI-Guard: LLM API Gateway & Usage Monitor** — a production proxy that unifies access, token tracking and cost governance across **4 LLM providers**. Redis caching and rate limiting cut token use by **60%**, and automated quota monitoring cut manual tracking by **90%**. *Node.js · Koa · Redis · MongoDB · AWS EC2 · Brevo*
-- **Genie: AI-Powered VS Code Extension** — **7 command-palette features** (code generation, code reviews, unit tests, repo docs, codebase analysis) for an enterprise banking client. A LangChain agentic pipeline and optimized context management cut AI token costs by **80%**. *Python · FastAPI · TypeScript · LangChain · GitHub Copilot API*
-- **Code Converter: AI Repository Migration Platform** — migrates whole codebases between languages and frameworks by mapping their architecture and dependency graphs first. It ships **5 migration capabilities**: state, React Context, props, routing and API layers. *Python · FastAPI · PostgreSQL · LangChain · Gemini · React · shadcn/ui*
-- **MagickVoice: AI Voice-Agent QA System** — automated testing for an AI voice-calling platform, using an LLM-as-judge stack of **3 tools** (SkyTest Agent, simulate-sdk, DeepEval) orchestrated in CircleCI, plus SIP telephony via VoBiz. *Python · CircleCI · SIP · DeepEval*
-- **RAG File Query Chatbot (internal tool)** — upload documents and query them in natural language. It runs a LangChain ingestion pipeline on PostgreSQL vector search and can switch between **3 LLM providers** at runtime. *Python · FastAPI · PostgreSQL · LangChain*
+<sub>Work projects at Bilvantis Technologies are private; the cards above summarise them.</sub>
 
-#### Open Source 🧪
+### 🧪 Open Source
 
-- [booking_microservice](https://github.com/jagan786786/booking_microservice) — a booking service built as an independently deployable microservice.
-- [TaskBoard](https://github.com/jagan786786/TaskBoard) — a task-management board, with a Jenkins CI pipeline in [taskboard-ci](https://github.com/jagan786786/taskboard-ci).
-- [Cricket-Association](https://github.com/jagan786786/Cricket-Association) — a full-stack association platform, with a separate [Express backend](https://github.com/jagan786786/Cricket-Association-Backend).
-- [chat_application](https://github.com/jagan786786/chat_application) — a real-time chat application.
-- [unidashboard](https://github.com/jagan786786/unidashboard) — a university dashboard built in TypeScript.
-- [Jagannath_portfolio](https://github.com/jagan786786/Jagannath_portfolio) — my personal portfolio ([live](https://jagannath-portfolio.vercel.app)).
+<p align="center">
+  <a href="https://github.com/jagan786786/booking_microservice"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=booking_microservice&theme=tokyonight&hide_border=true" alt="booking_microservice" /></a>
+  <a href="https://github.com/jagan786786/TaskBoard"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=TaskBoard&theme=tokyonight&hide_border=true" alt="TaskBoard" /></a>
+  <a href="https://github.com/jagan786786/taskboard-ci"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=taskboard-ci&theme=tokyonight&hide_border=true" alt="taskboard-ci" /></a>
+  <a href="https://github.com/jagan786786/Cricket-Association-Backend"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=Cricket-Association-Backend&theme=tokyonight&hide_border=true" alt="Cricket-Association-Backend" /></a>
+  <a href="https://github.com/jagan786786/chat_application"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=chat_application&theme=tokyonight&hide_border=true" alt="chat_application" /></a>
+  <a href="https://github.com/jagan786786/Jagannath_portfolio"><img width="49%" src="https://github-stats-extended.vercel.app/api/pin/?username=jagan786786&repo=Jagannath_portfolio&theme=tokyonight&hide_border=true" alt="Jagannath_portfolio" /></a>
+</p>
 
 ## 🛠 Skills
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,ts,js,java,postgres,mysql,mongodb,redis,aws,docker,react,nextjs,git,github,postman,vscode&perline=10" alt="Skills" />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,fastapi,nodejs,express,nestjs,ts,js,java,postgres,mysql,mongodb,redis,aws,docker,react,nextjs,git,github,postman,vscode&perline=10" alt="Tech icons" />
+</p>
 
-#### Languages 💻
+<img src="assets/skills.svg" width="100%" alt="Skills matrix: Python, SQL, Java, JS, TS · FastAPI, Node, Express, NestJS, Koa · RAG, LangChain, AI agents, LLM-as-judge, DeepEval · OpenAI, Anthropic, Gemini, Databricks · PostgreSQL, MySQL, MongoDB, Redis · AWS, Docker, CircleCI · React, Next.js · testing & QA · Claude Code, Cursor, Copilot" />
 
-- Python, SQL, Java, JavaScript (ES6+), TypeScript
+## 🎓 Credentials
 
-#### Backend & APIs 🔧
-
-- FastAPI, Node.js, Express.js, NestJS, Koa.js, REST APIs, WebSockets, JWT Authentication
-
-#### AI & LLM 🤖
-
-- Generative AI, LLMs, NLP, RAG, AI Agents, Multi-Agent Systems, LangChain, Prompt Engineering
-- LLM Evaluation (LLM-as-judge, DeepEval), Voice AI, OpenAI, Anthropic, Gemini, Databricks
-
-#### Databases & Cache 💾
-
-- PostgreSQL, MySQL, MongoDB, Redis, Vector Databases
-
-#### Cloud & DevOps 🚢
-
-- AWS (EC2, S3, RDS), Docker, CircleCI (CI/CD), GitHub-based development, Netlify
-
-#### Frontend 🎨
-
-- HTML, CSS, React (Material UI, shadcn/ui), Next.js, Bootstrap
-
-#### Testing & QA 🧪
-
-- Unit testing, integration testing, API testing, automated QA, code reviews, voice-call evaluation
-
-#### AI Coding Tools 🪄
-
-- Claude Code, Cursor, GitHub Copilot, Antigravity
-
-## 🎓 Education
-
-- **GIET University, Gunupur** — B.E. in Computer Science and Engineering · Jul 2021 – May 2025 · CGPA **8.4/10**
-- Coursework — Software Engineering, Operating Systems, Data Structures & Algorithms, DBMS, Artificial Intelligence
-
-## 📜 Certifications
-
-- [Anthropic](https://www.anthropic.com) — Claude MCP Integration · Claude Code in Action
-- HackerRank — Java Basics (4★) · SQL (3★)
-- NPTEL — Joy of Computing Using Python
-- Cambridge — English Language Certificate (Capable Program)
-- Object-Oriented PHP & MVC — Certificate of Completion
-
-## 🏆 Achievements
-
-- 🥇 1st prize, block-level general knowledge competition
-- 🥇 1st prize, district-level debate competition
-- 🥉 3rd prize, state-level debate competition
-- 🏏 Champion, district-level cricket tournament
+<img src="assets/credentials.svg" width="100%" alt="Education: GIET University, B.E. CSE 2021–2025, CGPA 8.4 · Certifications: Anthropic Claude MCP and Claude Code in Action, HackerRank Java and SQL, NPTEL Python, Cambridge English · Achievements: debate and GK prizes, district cricket champion" />
 
 ## 📊 Metrics & Graphs
 
@@ -188,9 +129,11 @@
 
 ## 📫 Contact
 
-- 💼 LinkedIn — [in/jagannath-patro-37a192250](https://www.linkedin.com/in/jagannath-patro-37a192250/)
-- 📧 Email — [jagannathpatro234@gmail.com](mailto:jagannathpatro234@gmail.com)
-- 🌐 Portfolio — [jagannath-portfolio.vercel.app](https://jagannath-portfolio.vercel.app)
+<p align="center">
+  <a href="https://www.linkedin.com/in/jagannath-patro-37a192250/"><img src="https://img.shields.io/badge/LinkedIn-jagannath--patro-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:jagannathpatro234@gmail.com"><img src="https://img.shields.io/badge/Email-jagannathpatro234-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://jagannath-portfolio.vercel.app"><img src="https://img.shields.io/badge/Portfolio-vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 <div align="center">
 
