@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
+  <defs>
+    <style>
+      .num { font-family: 'Segoe UI',Inter,-apple-system,Helvetica,Arial,sans-serif; font-weight: 800; font-size: 46px; }
+      .lbl { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 13px; fill: #9fb0d9; }
+      .sub { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,monospace; font-size: 11px; fill: #5b6b94; }
+      .card { opacity: 0; animation: up .7s ease forwards; }
+      @keyframes up { from { opacity: 0; transform: translateY(10px) } to { opacity: 1; transform: none } }
+    </style>
+    <linearGradient id="g1" x1="0" x2="1"><stop offset="0" stop-color="#FFD43B"/><stop offset="1" stop-color="#F5A524"/></linearGradient>
+    <linearGradient id="g2" x1="0" x2="1"><stop offset="0" stop-color="#61DAFB"/><stop offset="1" stop-color="#3776AB"/></linearGradient>
+    <linearGradient id="g3" x1="0" x2="1"><stop offset="0" stop-color="#A5E075"/><stop offset="1" stop-color="#009688"/></linearGradient>
+    <linearGradient id="g4" x1="0" x2="1"><stop offset="0" stop-color="#FF7AB2"/><stop offset="1" stop-color="#D97757"/></linearGradient>
+  </defs>
+
+  <g class="card" style="animation-delay:.1s">
+    <rect x="0" y="5" width="285" height="160" rx="14" fill="#1a1b27" stroke="#2a2f45"/>
+    <rect x="20" y="5" width="60" height="4" rx="2" fill="url(#g1)"/>
+    <text x="24" y="78" class="num" fill="url(#g1)">80%</text>
+    <text x="24" y="110" class="lbl">lower LLM API cost</text>
+    <text x="24" y="134" class="sub">context mgmt · Genie</text>
+  </g>
+  <g class="card" style="animation-delay:.3s">
+    <rect x="305" y="5" width="285" height="160" rx="14" fill="#1a1b27" stroke="#2a2f45"/>
+    <rect x="325" y="5" width="60" height="4" rx="2" fill="url(#g2)"/>
+    <text x="329" y="78" class="num" fill="url(#g2)">60%</text>
+    <text x="329" y="110" class="lbl">fewer upstream tokens</text>
+    <text x="329" y="134" class="sub">redis caching · AI-Guard</text>
+  </g>
+  <g class="card" style="animation-delay:.5s">
+    <rect x="610" y="5" width="285" height="160" rx="14" fill="#1a1b27" stroke="#2a2f45"/>
+    <rect x="630" y="5" width="60" height="4" rx="2" fill="url(#g3)"/>
+    <text x="634" y="78" class="num" fill="url(#g3)">90%</text>
+    <text x="634" y="110" class="lbl">less manual tracking</text>
+    <text x="634" y="134" class="sub">quotas + alerts · AI-Guard</text>
+  </g>
+  <g class="card" style="animation-delay:.7s">
+    <rect x="915" y="5" width="285" height="160" rx="14" fill="#1a1b27" stroke="#2a2f45"/>
+    <rect x="935" y="5" width="60" height="4" rx="2" fill="url(#g4)"/>
+    <text x="939" y="78" class="num" fill="url(#g4)">4</text>
+    <text x="939" y="110" class="lbl">LLM providers unified</text>
+    <text x="939" y="134" class="sub">one gateway · AI-Guard</text>
+  </g>
+</svg>
